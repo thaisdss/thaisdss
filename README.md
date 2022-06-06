@@ -1,9 +1,8 @@
 ## Hi, I'm Thaís Silva, a front-end developer from 🇧🇷!
 
-- 💻 At the beginning of 2021 I started to study advanced Excel
-- 🔭 In the middle of 2021 I wanted to deepen my technological knowledge and got to know programming
+- 💻 At the beginning of 2021, I started to study advanced Excel. because of that I aroused interest in the area of technology and fell in love with programming
 - 👩🏾‍💻 I am currently studying JavaScript, HTML and CSS. I became a front-end lover
-- 🎯 I'm still evaluating my goals for the future, becoming a full-stack programmer? Working with mobile development? Switch to data science? I love it all but let's see what God has in store for me
+- 🎯 my goal is to become a full-stack developer
 
 <div align="center">
   <a href="https://github.com/thaisdss">
