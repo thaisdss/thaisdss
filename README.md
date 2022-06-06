@@ -1,11 +1,9 @@
 ## Hi, I'm Thaís Silva, a front-end developer from 🇧🇷!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💻 At the beginning of 2021 I started to study advanced Excel
+- 🔭 In the middle of 2021 I wanted to deepen my technological knowledge and got to know programming
+- 👩🏾‍💻 I am currently studying JavaScript, HTML and CSS. I became a front-end lover
+- 🎯 I'm still evaluating my goals for the future, becoming a full-stack programmer? Working with mobile development? Switch to data science? I love it all but let's see what God has in store for me
 
 <div align="center">
   <a href="https://github.com/thaisdss">
@@ -17,7 +15,7 @@
   <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/692099761381179552/983406181500457060/picasion.com_2673d7959f76bdb94f55496f203a11ba.gif">
+  <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_TdN17zCC.png">
 </div>
 </div>
   
