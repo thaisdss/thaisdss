@@ -16,7 +16,7 @@
   <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_TdN17zCC.png">
+  <img align="right" alt="Thais-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/692099761381179552/983458614943576164/foto-thais-animacao-boca_aberta.png?width=421&height=421">
 </div>
 </div>
   
