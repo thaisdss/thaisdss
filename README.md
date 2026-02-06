@@ -5,9 +5,9 @@ I'm Thaís Silva, a front-end developer from 🇧🇷!
 
 
 - 💻 At the beginning of 2021, I started to study advanced Excel. Then, I aroused interest in the technological area and I became a programming lover
-- 👩🏾‍💻 Currently, I'm studying and working with NextJS, ReactJS, Typescript, Styled-Components and other web technologies
-- 🎯 My goal is to specialize in front-end development
-- 📌 In the future, I want to learn the basics of back-end development, especially Node.js and learn and work with mobile development too
+- 👩🏾‍💻 Currently, I'm studying and working with NextJS, ReactJS, Typescript, Tailwind CSS and other web technologies
+- 🎯 My goal is to specialize in front-end development for web and mobile
+- 📌 In the future, I want to learn the basics of back-end development, especially Node.js
 
 
 <div align="center">
