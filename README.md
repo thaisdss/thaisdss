@@ -4,7 +4,7 @@ I'm Thaís Silva, a software developer from 🇧🇷!
 
 
 
-- 💻 At the beginning of 2021, I started to study advanced Excel. Then, I aroused interest in the technological area and I became a programming lover
+- 💻 I started my journey in IT after taking a JavaScript course, and since then, I have been working in front-end development for web and mobile applications.
 - 👩🏾‍💻 Currently, I'm working with NextJS, ReactJS, Typescript, Tailwind CSS and other web technologies
 - 🎯 My goal is to specialize in developing complete web and mobile solutions, creating modern and scalable front-end applications integrated with back-end technologies such as Node.js
 - 📌 Additionally, I am developing personal projects focused on creating and developing solutions integrated with artificial intelligence to improve my skills in this area
